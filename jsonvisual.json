@@ -1,0 +1,521 @@
+{
+  "LuvFlakkedCheeks": {
+    "INFO": {
+      "tier": "MASTER",
+      "rank": "I",
+      "LP": 9,
+      "wins": 19,
+      "losses": 20
+    },
+    "OUT": [
+      {
+        "vs_queue_stats": {
+          "tier": "CHALLENGER",
+          "rank": "I",
+          "LP": 586,
+          "wins": 52,
+          "losses": 32
+        },
+        "champion": "LeeSin",
+        "info": {
+          "gameDuration": 1380,
+          "gameStartTimestamp": 1690403626508
+        },
+        "vsChampion": "Taliyah",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "4NsY-i1GmLYk0M7RG_oTClTRYn-7rZj2oTT3jLsrday9MtmX",
+        "bans": [114, 238, 107, 145, 427],
+        "vs_bans": [30, 107, 526, 2, 950],
+        "matchID": "EUW1_6521300440",
+        "vs": "Baleusi"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 241,
+          "wins": 73,
+          "losses": 59
+        },
+        "champion": "Nidalee",
+        "info": {
+          "gameDuration": 1703,
+          "gameStartTimestamp": 1690399419552
+        },
+        "vsChampion": "Gragas",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "taPDj-T7xNJZOTL9zCESf5-Fv6A0lewJ5ENjT-CG4hoMplMX",
+        "bans": [30, 85, 145, 107, 119],
+        "vs_bans": [141, 119, 39, 111, 30],
+        "matchID": "EUW1_6521138617",
+        "vs": "Elliot Giles"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 29,
+          "wins": 36,
+          "losses": 38
+        },
+        "champion": "Diana",
+        "info": {
+          "gameDuration": 1312,
+          "gameStartTimestamp": 1690319098199
+        },
+        "vsChampion": "Nunu",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "3_jQ4N5Z7B0kJsv5X6A77cC91VYUXqPfXH9GG_bO-dwI-QI",
+        "bans": [28, 121, 58, 107, 92],
+        "vs_bans": [119, 54, 498, 950, 101],
+        "matchID": "EUW1_6519511169",
+        "vs": "LUCADENGA"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 213,
+          "wins": 42,
+          "losses": 28
+        },
+        "champion": "Khazix",
+        "info": {
+          "gameDuration": 1788,
+          "gameStartTimestamp": 1690315229958
+        },
+        "vsChampion": "LeeSin",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "UA7U0q7iyyuV_rwvmA9PhZ7uxNAimOXGrON-HnuFqHLu7BM",
+        "bans": [360, 421, 30, 113, 950],
+        "vs_bans": [107, 114, 427, 7, -1],
+        "matchID": "EUW1_6519340361",
+        "vs": "keisu"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 346,
+          "wins": 63,
+          "losses": 60
+        },
+        "champion": "Diana",
+        "info": {
+          "gameDuration": 1240,
+          "gameStartTimestamp": 1690311283315
+        },
+        "vsChampion": "Ekko",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "g3q4XkiigsFgK-pbochzKqAzzjQ13ghmsjFhk0IVKUXvniI",
+        "bans": [7, 526, 107, 145, 777],
+        "vs_bans": [360, 203, 526, 7, 28],
+        "matchID": "EUW1_6519181941",
+        "vs": "Ekko the Neeko"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "DIAMOND",
+          "rank": "I",
+          "LP": 21,
+          "wins": 33,
+          "losses": 37
+        },
+        "champion": "Nidalee",
+        "info": {
+          "gameDuration": 396,
+          "gameStartTimestamp": 1690205632848
+        },
+        "vsChampion": "FiddleSticks",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "RvYaNLq9kuL5wReyRLKUBYde8tGoMYbNfk1haKHxyyOqAlU",
+        "bans": [119, 526, 40, 107, 114],
+        "vs_bans": [-1, 119, 7, 30, 58],
+        "matchID": "EUW1_6516498917",
+        "vs": "akksor"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 385,
+          "wins": 37,
+          "losses": 23
+        },
+        "champion": "Viego",
+        "info": {
+          "gameDuration": 1403,
+          "gameStartTimestamp": 1690203793909
+        },
+        "vsChampion": "LeeSin",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "iQrSZJQpWHGi-DS9yc0CedEXKDW5vXjm0n8OfbQINWFJ9wo",
+        "bans": [203, 103, 526, 119, 107],
+        "vs_bans": [76, 107, 950, 58, 497],
+        "matchID": "EUW1_6516439352",
+        "vs": "Buzzcut Billy"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "DIAMOND",
+          "rank": "III",
+          "LP": 75,
+          "wins": 5,
+          "losses": 2
+        },
+        "champion": "Khazix",
+        "info": {
+          "gameDuration": 2134,
+          "gameStartTimestamp": 1690201332475
+        },
+        "vsChampion": "Karthus",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "MEZKWp1oi8fbY5eQ40AgXU69fxUlF3PC_6OP7F-D0jKqAe38SCm2g0AUyA",
+        "bans": [145, 119, 120, 497, 526],
+        "vs_bans": [18, 76, 58, 235, 84],
+        "matchID": "EUW1_6516369292",
+        "vs": "RUW Showner"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 356,
+          "wins": 41,
+          "losses": 23
+        },
+        "champion": "LeeSin",
+        "info": {
+          "gameDuration": 1259,
+          "gameStartTimestamp": 1690199679199
+        },
+        "vsChampion": "Nidalee",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "jiCFi06XA-SqEdoyvrIYW2RsyDM7n5Ca916PWH58F43-_as",
+        "bans": [145, 121, 68, 7, 119],
+        "vs_bans": [141, 119, 61, 950, 107],
+        "matchID": "EUW1_6516331731",
+        "vs": "yams1"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "DIAMOND",
+          "rank": "I",
+          "LP": 41,
+          "wins": 18,
+          "losses": 16
+        },
+        "champion": "Karthus",
+        "info": {
+          "gameDuration": 2219,
+          "gameStartTimestamp": 1690197097690
+        },
+        "vsChampion": "Zyra",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "sU1itPvJEX0z0iacp446HbrRkERlMWKGQ3-w1F_w2k9yVdA",
+        "bans": [12, 145, 121, 107, 68],
+        "vs_bans": [154, 7, 526, 203, 950],
+        "matchID": "EUW1_6516264386",
+        "vs": "Luving U"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 273,
+          "wins": 66,
+          "losses": 60
+        },
+        "champion": "LeeSin",
+        "info": {
+          "gameDuration": 1373,
+          "gameStartTimestamp": 1690195422271
+        },
+        "vsChampion": "Nidalee",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "VIOwBACB1NcffxSqCjclhQlmAeX_TbXgLSCaEOqHuvvrMm8",
+        "bans": [18, 121, 950, 107, 203],
+        "vs_bans": [427, 119, 526, 18, 107],
+        "matchID": "EUW1_6516231073",
+        "vs": "Clarence Kennedy"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 188,
+          "wins": 45,
+          "losses": 44
+        },
+        "champion": "Belveth",
+        "info": {
+          "gameDuration": 1713,
+          "gameStartTimestamp": 1690121912698
+        },
+        "vsChampion": "JarvanIV",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "JMHmNHZPgQllmUlFZGeXhF7zJBFvqLaHr_cJBFgMV6Pp0b0",
+        "bans": [950, 120, 107, 85, 427],
+        "vs_bans": [498, 526, 107, 119, 68],
+        "matchID": "EUW1_6514441704",
+        "vs": "ME LittleLaudi"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 18,
+          "wins": 36,
+          "losses": 31
+        },
+        "champion": "Viego",
+        "info": {
+          "gameDuration": 1370,
+          "gameStartTimestamp": 1690109972996
+        },
+        "vsChampion": "Sejuani",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "B-eU0JdzYsYAEPjQrcMWA1oMgwzSMxHNMiBfkiRs3diemYA",
+        "bans": [119, 950, 107, 145, 55],
+        "vs_bans": [200, 145, 141, 122, 111],
+        "matchID": "EUW1_6514029725",
+        "vs": "WildStars"
+      }
+    ],
+    "IN": [
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 204,
+          "wins": 49,
+          "losses": 40
+        },
+        "champion": "Karthus",
+        "info": {
+          "gameDuration": 2076,
+          "gameStartTimestamp": 1690405371169
+        },
+        "vsChampion": "Nidalee",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "I6nARjhcghq-8s-NsR5hpWWHGjnx7txcErQ3bTd-KmuMC68",
+        "bans": [119, 7, 526, 107, 122],
+        "vs_bans": [54, 555, 24, 119, 145],
+        "matchID": "EUW1_6521370268",
+        "vs": "StanPelly"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "DIAMOND",
+          "rank": "I",
+          "LP": 0,
+          "wins": 12,
+          "losses": 10
+        },
+        "champion": "Kayn",
+        "info": {
+          "gameDuration": 1573,
+          "gameStartTimestamp": 1690401434657
+        },
+        "vsChampion": "Elise",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "VtvR0IbPYKb-gP3S8oDFmNAhwj8Ukt_YtovPqVjufLPQ0NU",
+        "bans": [145, 30, 526, 107, 85],
+        "vs_bans": [526, 360, 107, 200, 119],
+        "matchID": "EUW1_6521222637",
+        "vs": "xLittle bee"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 446,
+          "wins": 72,
+          "losses": 55
+        },
+        "champion": "Khazix",
+        "info": {
+          "gameDuration": 1095,
+          "gameStartTimestamp": 1690397846120
+        },
+        "vsChampion": "LeeSin",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "5hbrLKrq9isj8A4UtbwBlteUAcmplt_f7xzxFZ6CKEkSQu3u",
+        "bans": [145, 58, 119, -1, 40],
+        "vs_bans": [107, 497, 30, 114, 498],
+        "matchID": "EUW1_6521073291",
+        "vs": "SzymusJD"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "DIAMOND",
+          "rank": "I",
+          "LP": 0,
+          "wins": 82,
+          "losses": 86
+        },
+        "champion": "Poppy",
+        "info": {
+          "gameDuration": 1403,
+          "gameStartTimestamp": 1690317433736
+        },
+        "vsChampion": "Gragas",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "241tD_1UlGqyUMquh-d2g5D1D1LSLIXbgNVQpRLhtsR8rHR_",
+        "bans": [145, 203, 30, 119, 114],
+        "vs_bans": [7, 526, 203, 120, 107],
+        "matchID": "EUW1_6519448505",
+        "vs": "MetaSlaveJungler"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "GRANDMASTER",
+          "rank": "I",
+          "LP": 332,
+          "wins": 52,
+          "losses": 38
+        },
+        "champion": "Nidalee",
+        "info": {
+          "gameDuration": 1735,
+          "gameStartTimestamp": 1690312870420
+        },
+        "vsChampion": "RekSai",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "1hyq9ye5OA9_2UOcEplkPkyzViv_5CRLnoV8YaEDNUlP7Cc",
+        "bans": [360, 24, 526, 7, 121],
+        "vs_bans": [69, 7, -1, 266, 58],
+        "matchID": "EUW1_6519246171",
+        "vs": "Roi DEMON"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 219,
+          "wins": 91,
+          "losses": 86
+        },
+        "champion": "Lillia",
+        "info": {
+          "gameDuration": 913,
+          "gameStartTimestamp": 1690310023626
+        },
+        "vsChampion": "RekSai",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "8sidy0-zWrxjj1vR37DG_3RNDO7JqM2hyW8ORx5IewXWe0N-hi0CUBbAHg",
+        "bans": [526, 30, 2, 145, 121],
+        "vs_bans": [111, 77, 119, 7, 57],
+        "matchID": "EUW1_6519134517",
+        "vs": "On\u00ee\u00ee"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 23,
+          "wins": 62,
+          "losses": 61
+        },
+        "champion": "Khazix",
+        "info": {
+          "gameDuration": 2425,
+          "gameStartTimestamp": 1690206439180
+        },
+        "vsChampion": "Poppy",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "5RFuo0aervVC4wQRsyq6bReFGdlUqQuGNofu5qt8JNgC-iE",
+        "bans": [48, 950, 85, 81, 107],
+        "vs_bans": [117, 107, -1, 526, 92],
+        "matchID": "EUW1_6516525501",
+        "vs": "Full ap Najman"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 148,
+          "wins": 31,
+          "losses": 27
+        },
+        "champion": "Belveth",
+        "info": {
+          "gameDuration": 1251,
+          "gameStartTimestamp": 1690193865897
+        },
+        "vsChampion": "Graves",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "QWtNXuszTN4XvwCzjAVB4Y6nDHXpbFWjZJ0lLHyZddW8GHJi",
+        "bans": [427, 950, 107, 498, 24],
+        "vs_bans": [107, 76, 7, 145, 58],
+        "matchID": "EUW1_6516203614",
+        "vs": "Kiril Lazarov"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 0,
+          "wins": 24,
+          "losses": 20
+        },
+        "champion": "LeeSin",
+        "info": {
+          "gameDuration": 1526,
+          "gameStartTimestamp": 1690113318755
+        },
+        "vsChampion": "FiddleSticks",
+        "index": 2,
+        "vs_index": 7,
+        "vs_id": "nqW7nu_wrUOTUMiPVLvG7-HqEkOE61zxTDCQCY8tzG0nnHdGV9_yt9hlrw",
+        "bans": [107, 28, 111, 498, 950],
+        "vs_bans": [107, 39, 950, 200, 119],
+        "matchID": "EUW1_6514128170",
+        "vs": "Alpha Habibi"
+      },
+      {
+        "vs_queue_stats": {
+          "tier": "MASTER",
+          "rank": "I",
+          "LP": 116,
+          "wins": 40,
+          "losses": 39
+        },
+        "champion": "Nidalee",
+        "info": {
+          "gameDuration": 1238,
+          "gameStartTimestamp": 1690111667304
+        },
+        "vsChampion": "Rengar",
+        "index": 7,
+        "vs_index": 2,
+        "vs_id": "cHCbHFssAuqxppsBs-owmGO33SX4pJu5CG_7tXwranwUWSU",
+        "bans": [7, 145, 119, 950, 238],
+        "vs_bans": [119, 7, -1, 166, 28],
+        "matchID": "EUW1_6514078177",
+        "vs": "Blackest Man"
+      }
+    ]
+  }
+}

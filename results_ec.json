@@ -1,0 +1,730 @@
+[
+    {
+        "node": "Groinze",
+        "degree": 30,
+        "generator": true,
+        "connected_nodes": [
+            {
+                "name": "Roi DEMON",
+                "generator": true,
+                "out_degree": 22,
+                "in_degree": 16,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "SzymusJD",
+                "generator": true,
+                "out_degree": 16,
+                "in_degree": 8,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Tezhak",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 3,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "MUSKETOON",
+                "generator": false,
+                "out_degree": 3,
+                "in_degree": 1,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "tempbbnbwovvonqq",
+                "generator": false,
+                "out_degree": 8,
+                "in_degree": 3,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "NO BYSTANDERS9",
+                "generator": false,
+                "out_degree": 8,
+                "in_degree": 7,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "Ma\u00eetre 0",
+                "generator": true,
+                "out_degree": 18,
+                "in_degree": 8,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "HACKSLASHXXXXX",
+                "generator": true,
+                "out_degree": 3,
+                "in_degree": 5,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "lCherkessl",
+                "generator": true,
+                "out_degree": 17,
+                "in_degree": 15,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Raz\u00f8rk Activo\u00f8",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 5,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "Cow1337killr",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 5,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "KaniaWest",
+                "generator": true,
+                "out_degree": 9,
+                "in_degree": 9,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Cosmic Silence",
+                "generator": true,
+                "out_degree": 1,
+                "in_degree": 1,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "D\u00eeamondprox",
+                "generator": false,
+                "out_degree": 1,
+                "in_degree": 3,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Dopaminw",
+                "generator": false,
+                "out_degree": 4,
+                "in_degree": 7,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "akksor",
+                "generator": true,
+                "out_degree": 12,
+                "in_degree": 15,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "PikAsyou",
+                "generator": true,
+                "out_degree": 22,
+                "in_degree": 15,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "KaynK\u00eeng",
+                "generator": true,
+                "out_degree": 7,
+                "in_degree": 7,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Cr\u00c3zY",
+                "generator": true,
+                "out_degree": 12,
+                "in_degree": 15,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Hyweedri",
+                "generator": false,
+                "out_degree": 2,
+                "in_degree": 1,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Pipibaat Yarr",
+                "generator": false,
+                "out_degree": 7,
+                "in_degree": 2,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "verypositive",
+                "generator": false,
+                "out_degree": 2,
+                "in_degree": 17,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "G2 Nezuko",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 3,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "EagleSbroccato",
+                "generator": false,
+                "out_degree": 5,
+                "in_degree": 9,
+                "rank": "MASTER"
+            }
+        ]
+    },
+    {
+        "node": "FaithXD",
+        "degree": 28,
+        "generator": true,
+        "connected_nodes": [
+            {
+                "name": "Roi DEMON",
+                "generator": true,
+                "out_degree": 22,
+                "in_degree": 16,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Cow1337killr",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 5,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Kevin Pearson",
+                "generator": true,
+                "out_degree": 14,
+                "in_degree": 12,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "matrix agent 2",
+                "generator": true,
+                "out_degree": 24,
+                "in_degree": 15,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "tent is back",
+                "generator": true,
+                "out_degree": 12,
+                "in_degree": 17,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Goocha",
+                "generator": true,
+                "out_degree": 5,
+                "in_degree": 3,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "FA Warrior",
+                "generator": true,
+                "out_degree": 18,
+                "in_degree": 29,
+                "rank": "MASTER"
+            },
+            {
+                "name": "NO BYSTANDERS9",
+                "generator": false,
+                "out_degree": 8,
+                "in_degree": 7,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "SzymusJD",
+                "generator": true,
+                "out_degree": 16,
+                "in_degree": 8,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "F\u03b1ll\u03b5n 1",
+                "generator": false,
+                "out_degree": 3,
+                "in_degree": 3,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Kirei sama",
+                "generator": false,
+                "out_degree": 9,
+                "in_degree": 8,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "KVIHNLCM",
+                "generator": false,
+                "out_degree": 4,
+                "in_degree": 5,
+                "rank": "MASTER"
+            },
+            {
+                "name": "MafroMafroMafro",
+                "generator": false,
+                "out_degree": 4,
+                "in_degree": 5,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "TMAX VROUM VROUM",
+                "generator": false,
+                "out_degree": 8,
+                "in_degree": 9,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Dopaminw",
+                "generator": false,
+                "out_degree": 4,
+                "in_degree": 7,
+                "rank": "GRANDMASTER"
+            }
+        ]
+    },
+    {
+        "node": "matrix agent 2",
+        "degree": 39,
+        "generator": true,
+        "connected_nodes": [
+            {
+                "name": "DenSygeKamel69",
+                "generator": true,
+                "out_degree": 21,
+                "in_degree": 19,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Tetrow",
+                "generator": false,
+                "out_degree": 7,
+                "in_degree": 7,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Lotrik",
+                "generator": false,
+                "out_degree": 1,
+                "in_degree": 2,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Koci\u0107ev Potomak",
+                "generator": false,
+                "out_degree": 6,
+                "in_degree": 10,
+                "rank": "MASTER"
+            },
+            {
+                "name": "HMPeiWan Mdog",
+                "generator": false,
+                "out_degree": 9,
+                "in_degree": 10,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Zefath",
+                "generator": false,
+                "out_degree": 7,
+                "in_degree": 2,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "zfh",
+                "generator": false,
+                "out_degree": 5,
+                "in_degree": 1,
+                "rank": "MASTER"
+            },
+            {
+                "name": "twtv habuubu",
+                "generator": false,
+                "out_degree": 8,
+                "in_degree": 6,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Ryka",
+                "generator": false,
+                "out_degree": 7,
+                "in_degree": 5,
+                "rank": "MASTER"
+            },
+            {
+                "name": "lost of words",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 7,
+                "rank": "MASTER"
+            },
+            {
+                "name": "EagleSbroccato",
+                "generator": false,
+                "out_degree": 5,
+                "in_degree": 9,
+                "rank": "MASTER"
+            },
+            {
+                "name": "JDS 2115",
+                "generator": false,
+                "out_degree": 9,
+                "in_degree": 7,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "GRX113",
+                "generator": false,
+                "out_degree": 3,
+                "in_degree": 4,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Wesley Warren Jr",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 1,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "FA Warrior",
+                "generator": true,
+                "out_degree": 18,
+                "in_degree": 29,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Cadde59A on Rift",
+                "generator": true,
+                "out_degree": 21,
+                "in_degree": 18,
+                "rank": "MASTER"
+            },
+            {
+                "name": "pwWX 2576902499",
+                "generator": true,
+                "out_degree": 1,
+                "in_degree": 3,
+                "rank": "MASTER"
+            },
+            {
+                "name": "mxvuwlw",
+                "generator": true,
+                "out_degree": 6,
+                "in_degree": 6,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "White Mantis",
+                "generator": false,
+                "out_degree": 10,
+                "in_degree": 8,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Nukes Olafson",
+                "generator": true,
+                "out_degree": 0,
+                "in_degree": 2,
+                "rank": "MASTER"
+            },
+            {
+                "name": "SAM Ever",
+                "generator": true,
+                "out_degree": 14,
+                "in_degree": 8,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "BAB0 JUNGLE",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 3,
+                "rank": "MASTER"
+            },
+            {
+                "name": "FaithXD",
+                "generator": true,
+                "out_degree": 15,
+                "in_degree": 13,
+                "rank": "MASTER"
+            },
+            {
+                "name": "IIII\u03bcIIII",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 8,
+                "rank": "MASTER"
+            }
+        ]
+    },
+    {
+        "node": "FA Warrior",
+        "degree": 47,
+        "generator": true,
+        "connected_nodes": [
+            {
+                "name": "StanPelly",
+                "generator": true,
+                "out_degree": 17,
+                "in_degree": 20,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "matrix agent 2",
+                "generator": true,
+                "out_degree": 24,
+                "in_degree": 15,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "meistro",
+                "generator": true,
+                "out_degree": 15,
+                "in_degree": 10,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Vol",
+                "generator": false,
+                "out_degree": 14,
+                "in_degree": 9,
+                "rank": "MASTER"
+            },
+            {
+                "name": "last arc",
+                "generator": false,
+                "out_degree": 7,
+                "in_degree": 4,
+                "rank": "MASTER"
+            },
+            {
+                "name": "seul",
+                "generator": false,
+                "out_degree": 4,
+                "in_degree": 3,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "DKRQGSCR",
+                "generator": false,
+                "out_degree": 6,
+                "in_degree": 4,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "Desireful59",
+                "generator": false,
+                "out_degree": 3,
+                "in_degree": 1,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "unhappy Pony",
+                "generator": false,
+                "out_degree": 3,
+                "in_degree": 1,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Egotistical JG",
+                "generator": true,
+                "out_degree": 5,
+                "in_degree": 1,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Raz\u00f8rk Activo\u00f8",
+                "generator": true,
+                "out_degree": 8,
+                "in_degree": 5,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "Traypo",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 2,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "tent is back",
+                "generator": true,
+                "out_degree": 12,
+                "in_degree": 17,
+                "rank": "MASTER"
+            },
+            {
+                "name": "stipe69",
+                "generator": false,
+                "out_degree": 6,
+                "in_degree": 4,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "qwqw",
+                "generator": false,
+                "out_degree": 1,
+                "in_degree": 1,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Pura fantasia",
+                "generator": true,
+                "out_degree": 26,
+                "in_degree": 17,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Jebeni Ovisnik",
+                "generator": true,
+                "out_degree": 12,
+                "in_degree": 21,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Theocacs",
+                "generator": true,
+                "out_degree": 17,
+                "in_degree": 16,
+                "rank": "CHALLENGER"
+            }
+        ]
+    },
+    {
+        "node": "Ma\u00eetre 0",
+        "degree": 26,
+        "generator": true,
+        "connected_nodes": [
+            {
+                "name": "Baleusi",
+                "generator": true,
+                "out_degree": 3,
+                "in_degree": 3,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "Yungle Abuser",
+                "generator": true,
+                "out_degree": 24,
+                "in_degree": 13,
+                "rank": "MASTER"
+            },
+            {
+                "name": "FaithXD",
+                "generator": true,
+                "out_degree": 15,
+                "in_degree": 13,
+                "rank": "MASTER"
+            },
+            {
+                "name": "cornfield chase",
+                "generator": true,
+                "out_degree": 9,
+                "in_degree": 12,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "adoppteR",
+                "generator": true,
+                "out_degree": 4,
+                "in_degree": 15,
+                "rank": "MASTER"
+            },
+            {
+                "name": "tumay1x198",
+                "generator": false,
+                "out_degree": 9,
+                "in_degree": 2,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "happy winter",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 2,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "S6 Peak",
+                "generator": false,
+                "out_degree": 5,
+                "in_degree": 1,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Friesenj\u00fbng",
+                "generator": false,
+                "out_degree": 2,
+                "in_degree": 2,
+                "rank": "MASTER"
+            },
+            {
+                "name": "TTVbigcheektimmy",
+                "generator": true,
+                "out_degree": 4,
+                "in_degree": 4,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "Ivama v2",
+                "generator": false,
+                "out_degree": 1,
+                "in_degree": 4,
+                "rank": "DIAMOND"
+            },
+            {
+                "name": "DenSygeKamel69",
+                "generator": true,
+                "out_degree": 21,
+                "in_degree": 19,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "Kirei sama",
+                "generator": false,
+                "out_degree": 9,
+                "in_degree": 8,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "FROZENPISTOL1998",
+                "generator": false,
+                "out_degree": 5,
+                "in_degree": 6,
+                "rank": "MASTER"
+            },
+            {
+                "name": "EF MAJ3R",
+                "generator": false,
+                "out_degree": 0,
+                "in_degree": 1,
+                "rank": "MASTER"
+            },
+            {
+                "name": "Depressed Elya ",
+                "generator": false,
+                "out_degree": 6,
+                "in_degree": 6,
+                "rank": "GRANDMASTER"
+            },
+            {
+                "name": "PikAsyou",
+                "generator": true,
+                "out_degree": 22,
+                "in_degree": 15,
+                "rank": "CHALLENGER"
+            },
+            {
+                "name": "nicolaiy3",
+                "generator": true,
+                "out_degree": 9,
+                "in_degree": 7,
+                "rank": "MASTER"
+            }
+        ]
+    }
+]
